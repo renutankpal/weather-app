@@ -35,7 +35,7 @@ import {
         <View style={styles.extrainfo}>
           <View style={styles.info}>
             <Text style={styles.tempdedata}>{feel_like} °C</Text>
-            <Text style={styles.tempde}>feels like</Text>
+            <Text style={styles.tempde}>Feels like</Text>
           </View>
         </View>
         <View style={styles.extrainfo}>
