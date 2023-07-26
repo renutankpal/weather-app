@@ -56,7 +56,7 @@ import {
             <Text style={styles.tempdedata}>
               {new Date(sunrise * 1000).toLocaleString()}
             </Text>
-            <Text style={styles.tempde}>sunrise</Text>
+            <Text style={styles.tempde}>Sunrise</Text>
           </View>
         </View>
   
@@ -65,7 +65,7 @@ import {
             <Text style={styles.tempdedata}>
               {new Date(sunset * 1000).toLocaleString()}
             </Text>
-            <Text style={styles.tempde}>sunset</Text>
+            <Text style={styles.tempde}>Sunset</Text>
           </View>
         </View>
   
