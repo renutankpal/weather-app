@@ -2,7 +2,7 @@ import {StyleSheet, Text, View, Alert, TextInput,ActivityIndicator} from 'react-
 import React, {useState, useEffect} from 'react';
 import WeatherInfo from './WeatherInfo'
 //Put your Api key
-const API_Key = '1f4b27430f5aaebe9cc72452fafacaa6';
+const API_Key = 'Put here your Api key';
 
 const Weather = () => {
   const [weatherData, setWeatherData] = useState(null);
